@@ -24,5 +24,6 @@ In this case, the scrollbar can function normally
 
 and visit http://localhost:5173/root/#/page-1
 In this case, the scrollbar has a bug
+![alt text](image.png)
 
-The Scene Editing Tools example also has bugs
+The Scene Editing Tools example also has this bug. But i am not sure if it is caused by the same reason.
