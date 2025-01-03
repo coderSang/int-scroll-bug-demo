@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#app {
+  height: 100%;
+  user-select: none;
+  font-weight: 400;
+  font-size: 14px;
+}
